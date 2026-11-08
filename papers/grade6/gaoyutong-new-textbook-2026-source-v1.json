@@ -1,0 +1,3410 @@
+{
+  "name": "高语桐·六年级上册语文｜新版教材",
+  "edition": "new-textbook-2026-v1",
+  "pages": [
+    126,
+    127,
+    128,
+    129
+  ],
+  "writing": [
+    {
+      "idx": 0,
+      "lesson": "1",
+      "char": "勒",
+      "word": "勾勒",
+      "pinyin": "gōu lè",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "lēi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 1,
+      "lesson": "1",
+      "char": "吟",
+      "word": "低吟",
+      "pinyin": "dī yín",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "yín",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 2,
+      "lesson": "1",
+      "char": "骏",
+      "word": "骏马",
+      "pinyin": "jùn mǎ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "jùn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 3,
+      "lesson": "1",
+      "char": "鞭",
+      "word": "鞭子",
+      "pinyin": "biān ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "biān",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 4,
+      "lesson": "1",
+      "char": "裳",
+      "word": "衣裳",
+      "pinyin": "yī shang",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "shang",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 5,
+      "lesson": "1",
+      "char": "蹄",
+      "word": "马蹄",
+      "pinyin": "mǎ tí",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "tí",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 6,
+      "lesson": "1",
+      "char": "腐",
+      "word": "奶豆腐",
+      "pinyin": "nǎi dòu fu",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "fǔ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 7,
+      "lesson": "1",
+      "char": "貌",
+      "word": "礼貌",
+      "pinyin": "lǐ mào",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "mào",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 8,
+      "lesson": "1",
+      "char": "拘",
+      "word": "拘束",
+      "pinyin": "jū shù",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "jū",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 9,
+      "lesson": "1",
+      "char": "稍",
+      "word": "稍微",
+      "pinyin": "shāo wēi",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "shāo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 10,
+      "lesson": "2",
+      "char": "缀",
+      "word": "点缀",
+      "pinyin": "? zhuì",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zhuì",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 11,
+      "lesson": "2",
+      "char": "窥",
+      "word": "窥视",
+      "pinyin": "kuī ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "kuī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 12,
+      "lesson": "2",
+      "char": "紫",
+      "word": "紫色",
+      "pinyin": "zǐ ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "zǐ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 13,
+      "lesson": "2",
+      "char": "潇",
+      "word": "潇洒",
+      "pinyin": "xiāo sǎ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "xiāo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 14,
+      "lesson": "2",
+      "char": "雅",
+      "word": "幽雅",
+      "pinyin": "yōu yǎ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "yǎ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 15,
+      "lesson": "2",
+      "char": "檐",
+      "word": "屋檐",
+      "pinyin": "? yán",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yán",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 16,
+      "lesson": "2",
+      "char": "浊",
+      "word": "浑浊",
+      "pinyin": "hún zhuó",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zhuó",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 17,
+      "lesson": "2",
+      "char": "拙",
+      "word": "笨拙",
+      "pinyin": "bèn zhuō",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zhuō",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 18,
+      "lesson": "2",
+      "char": "笨",
+      "word": "笨拙",
+      "pinyin": "bèn zhuō",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "bèn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 19,
+      "lesson": "2",
+      "char": "遮",
+      "word": "遮掩",
+      "pinyin": "zhē yǎn",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zhē",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 20,
+      "lesson": "2",
+      "char": "恍",
+      "word": "恍然",
+      "pinyin": "huǎng rán",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "huǎng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 21,
+      "lesson": "3",
+      "char": "德",
+      "word": "美德",
+      "pinyin": "měi dé",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "dé",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 22,
+      "lesson": "3",
+      "char": "暮",
+      "word": "暮色",
+      "pinyin": "mù ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "mù",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 23,
+      "lesson": "3",
+      "char": "旷",
+      "word": "空旷",
+      "pinyin": "? kuàng",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "kuàng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 24,
+      "lesson": "3",
+      "char": "鹊",
+      "word": "喜鹊",
+      "pinyin": "? què",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "què",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 25,
+      "lesson": "3",
+      "char": "蝉",
+      "word": "蝉鸣",
+      "pinyin": "chán ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "chán",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 26,
+      "lesson": "3",
+      "char": "稻",
+      "word": "稻田",
+      "pinyin": "dào ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "dào",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 27,
+      "lesson": "4",
+      "char": "律",
+      "word": "纪律",
+      "pinyin": "? lǜ",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "lǜ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 28,
+      "lesson": "4",
+      "char": "蒙",
+      "word": "蒙蔽",
+      "pinyin": "méng bì",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "méng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 29,
+      "lesson": "4",
+      "char": "丸",
+      "word": "药丸",
+      "pinyin": "? wán",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "wán",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 30,
+      "lesson": "4",
+      "char": "崖",
+      "word": "悬崖",
+      "pinyin": "xuán yá",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "yá",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 31,
+      "lesson": "4",
+      "char": "渡",
+      "word": "渡河",
+      "pinyin": "dù ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "dù",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 32,
+      "lesson": "4",
+      "char": "索",
+      "word": "搜索",
+      "pinyin": "sōu suǒ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "suǒ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 33,
+      "lesson": "5",
+      "char": "贯",
+      "word": "全神贯注",
+      "pinyin": "? ? guàn ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "guàn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 34,
+      "lesson": "5",
+      "char": "棋",
+      "word": "下棋",
+      "pinyin": "? qí",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "qí",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 35,
+      "lesson": "5",
+      "char": "悬",
+      "word": "悬崖",
+      "pinyin": "xuán yá",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "xuán",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 36,
+      "lesson": "5",
+      "char": "斩",
+      "word": "斩钉截铁",
+      "pinyin": "zhǎn dīng jié tiě",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zhǎn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 37,
+      "lesson": "5",
+      "char": "截",
+      "word": "斩钉截铁",
+      "pinyin": "zhǎn dīng jié tiě",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "jié",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 38,
+      "lesson": "5",
+      "char": "沸",
+      "word": "热血沸腾",
+      "pinyin": "rè xuè fèi téng",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "fèi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 39,
+      "lesson": "5",
+      "char": "砸",
+      "word": "砸碎",
+      "pinyin": "zá ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zá",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 40,
+      "lesson": "5",
+      "char": "雹",
+      "word": "雹子",
+      "pinyin": "báo ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "báo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 41,
+      "lesson": "5",
+      "char": "昂",
+      "word": "昂首",
+      "pinyin": "áng ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "áng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 42,
+      "lesson": "5",
+      "char": "豪",
+      "word": "豪迈",
+      "pinyin": "háo mài",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "háo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 43,
+      "lesson": "5",
+      "char": "迈",
+      "word": "豪迈",
+      "pinyin": "háo mài",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "mài",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 44,
+      "lesson": "6",
+      "char": "政",
+      "word": "政府",
+      "pinyin": "zhèng fǔ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zhèng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 45,
+      "lesson": "6",
+      "char": "府",
+      "word": "政府",
+      "pinyin": "zhèng fǔ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "fǔ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 46,
+      "lesson": "6",
+      "char": "宾",
+      "word": "外宾",
+      "pinyin": "? bīn",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "bīn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 47,
+      "lesson": "6",
+      "char": "宣",
+      "word": "宣告",
+      "pinyin": "xuān gào",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "xuān",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 48,
+      "lesson": "6",
+      "char": "拂",
+      "word": "飘拂",
+      "pinyin": "? fú",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "fú",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 49,
+      "lesson": "6",
+      "char": "阅",
+      "word": "检阅",
+      "pinyin": "? yuè",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "yuè",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 50,
+      "lesson": "6",
+      "char": "率",
+      "word": "率领",
+      "pinyin": "shuài lǐng",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "lǜ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 51,
+      "lesson": "6",
+      "char": "榴",
+      "word": "石榴",
+      "pinyin": "? liú",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "liú",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 52,
+      "lesson": "6",
+      "char": "栩",
+      "word": "栩栩如生",
+      "pinyin": "xǔ xǔ rú ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "xǔ",
+      "requiresManualReview": true
+    },
+    {
+      "idx": 53,
+      "lesson": "6",
+      "char": "喉",
+      "word": "喉咙",
+      "pinyin": "hóu ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "hóu",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 54,
+      "lesson": "6",
+      "char": "哑",
+      "word": "沙哑",
+      "pinyin": "shā yǎ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "yǎ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 55,
+      "lesson": "7",
+      "char": "蔽",
+      "word": "隐蔽",
+      "pinyin": "? bì",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "bì",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 56,
+      "lesson": "7",
+      "char": "趴",
+      "word": "趴下",
+      "pinyin": "pā ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "pā",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 57,
+      "lesson": "7",
+      "char": "伪",
+      "word": "伪装",
+      "pinyin": "wěi zhuāng",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "wěi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 58,
+      "lesson": "7",
+      "char": "摧",
+      "word": "摧毁",
+      "pinyin": "cuī ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "cuī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 59,
+      "lesson": "7",
+      "char": "幕",
+      "word": "烟幕",
+      "pinyin": "yān mù",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "mù",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 60,
+      "lesson": "7",
+      "char": "搜",
+      "word": "搜索",
+      "pinyin": "sōu suǒ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "sōu",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 61,
+      "lesson": "7",
+      "char": "蔓",
+      "word": "蔓延",
+      "pinyin": "màn ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "màn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 62,
+      "lesson": "7",
+      "char": "液",
+      "word": "液体",
+      "pinyin": "yè tǐ",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "yè",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 63,
+      "lesson": "7",
+      "char": "缩",
+      "word": "缩小",
+      "pinyin": "suō ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "suō",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 64,
+      "lesson": "7",
+      "char": "熄",
+      "word": "熄灭",
+      "pinyin": "xī ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "xī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 65,
+      "lesson": "8",
+      "char": "凛",
+      "word": "威风凛凛",
+      "pinyin": "? ? lǐn lǐn",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "lǐn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 66,
+      "lesson": "8",
+      "char": "搏",
+      "word": "搏斗",
+      "pinyin": "bó ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "bó",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 67,
+      "lesson": "8",
+      "char": "傻",
+      "word": "傻瓜",
+      "pinyin": "shǎ ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "shǎ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 68,
+      "lesson": "8",
+      "char": "棍",
+      "word": "棍棒",
+      "pinyin": "gùn ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "gùn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 69,
+      "lesson": "8",
+      "char": "裁",
+      "word": "别出心裁",
+      "pinyin": "bié chū xīn cái",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "cái",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 70,
+      "lesson": "8",
+      "char": "筹",
+      "word": "技高一筹",
+      "pinyin": "? ? ? chóu",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "chóu",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 71,
+      "lesson": "8",
+      "char": "橡",
+      "word": "橡皮",
+      "pinyin": "xiàng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "xiàng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 72,
+      "lesson": "8",
+      "char": "雕",
+      "word": "雕刻",
+      "pinyin": "diāo ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "diāo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 73,
+      "lesson": "8",
+      "char": "泰",
+      "word": "泰山",
+      "pinyin": "tài ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "tài",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 74,
+      "lesson": "8",
+      "char": "屏",
+      "word": "屏幕",
+      "pinyin": "píng mù",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "píng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 75,
+      "lesson": "8",
+      "char": "禁",
+      "word": "不禁",
+      "pinyin": "bù jīn",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "jìn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 76,
+      "lesson": "8",
+      "char": "蹲",
+      "word": "蹲下",
+      "pinyin": "dūn ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "dūn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 77,
+      "lesson": "9",
+      "char": "谜",
+      "word": "谜语",
+      "pinyin": "mí ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "mí",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 78,
+      "lesson": "9",
+      "char": "猜",
+      "word": "猜测",
+      "pinyin": "cāi ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "cāi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 79,
+      "lesson": "9",
+      "char": "尚",
+      "word": "尚未",
+      "pinyin": "shàng ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "shàng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 80,
+      "lesson": "9",
+      "char": "析",
+      "word": "分析",
+      "pinyin": "fēn xī",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "xī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 81,
+      "lesson": "9",
+      "char": "效",
+      "word": "效应",
+      "pinyin": "xiào ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "xiào",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 82,
+      "lesson": "9",
+      "char": "轨",
+      "word": "轨道",
+      "pinyin": "guǐ ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "guǐ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 83,
+      "lesson": "9",
+      "char": "谓",
+      "word": "所谓",
+      "pinyin": "suǒ wèi",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "wèi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 84,
+      "lesson": "9",
+      "char": "斑",
+      "word": "斑点",
+      "pinyin": "bān ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "bān",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 85,
+      "lesson": "9",
+      "char": "萎",
+      "word": "枯萎",
+      "pinyin": "kū wěi",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "wěi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 86,
+      "lesson": "9",
+      "char": "燥",
+      "word": "干燥",
+      "pinyin": "gān zào",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zào",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 87,
+      "lesson": "9",
+      "char": "漠",
+      "word": "沙漠",
+      "pinyin": "shā mò",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "mò",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 88,
+      "lesson": "11",
+      "char": "黎",
+      "word": "黎明",
+      "pinyin": "lí ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "lí",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 89,
+      "lesson": "11",
+      "char": "疯",
+      "word": "发疯",
+      "pinyin": "fā fēng",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "fēng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 90,
+      "lesson": "11",
+      "char": "淌",
+      "word": "流淌",
+      "pinyin": "? tǎng",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "tǎng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 91,
+      "lesson": "11",
+      "char": "盯",
+      "word": "盯着",
+      "pinyin": "dīng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "dīng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 92,
+      "lesson": "11",
+      "char": "肆",
+      "word": "放肆",
+      "pinyin": "? sì",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "sì",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 93,
+      "lesson": "11",
+      "char": "伍",
+      "word": "队伍",
+      "pinyin": "duì wǔ",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "wǔ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 94,
+      "lesson": "11",
+      "char": "揪",
+      "word": "揪住",
+      "pinyin": "jiū zhù",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "jiū",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 95,
+      "lesson": "11",
+      "char": "呻",
+      "word": "呻吟",
+      "pinyin": "shēn yín",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "shēn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 96,
+      "lesson": "11",
+      "char": "膛",
+      "word": "胸膛",
+      "pinyin": "xiōng táng",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "táng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 97,
+      "lesson": "11",
+      "char": "废",
+      "word": "废话",
+      "pinyin": "fèi ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "fèi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 98,
+      "lesson": "11",
+      "char": "塌",
+      "word": "倒塌",
+      "pinyin": "? tā",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "tā",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 99,
+      "lesson": "12",
+      "char": "妻",
+      "word": "妻子桑娜",
+      "pinyin": "qī zi sāng nà",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "qī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 100,
+      "lesson": "12",
+      "char": "娜",
+      "word": "妻子桑娜",
+      "pinyin": "qī zi sāng nà",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "nà",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 101,
+      "lesson": "12",
+      "char": "唉",
+      "word": "唉声叹气",
+      "pinyin": "āi shēng tàn qì",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "āi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 102,
+      "lesson": "12",
+      "char": "僵",
+      "word": "僵硬",
+      "pinyin": "jiāng ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "jiāng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 103,
+      "lesson": "12",
+      "char": "淋",
+      "word": "湿淋淋",
+      "pinyin": "shī lín lín",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "lín",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 104,
+      "lesson": "12",
+      "char": "嘿",
+      "word": "嘿嘿",
+      "pinyin": "hēi hēi",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "hēi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 105,
+      "lesson": "12",
+      "char": "糟",
+      "word": "糟糕",
+      "pinyin": "zāo ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zāo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 106,
+      "lesson": "12",
+      "char": "霉",
+      "word": "倒霉",
+      "pinyin": "? méi",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "méi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 107,
+      "lesson": "12",
+      "char": "嘛",
+      "word": "干嘛",
+      "pinyin": "gān ma",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "ma",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 108,
+      "lesson": "12",
+      "char": "惨",
+      "word": "惨状",
+      "pinyin": "cǎn ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "cǎn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 109,
+      "lesson": "12",
+      "char": "熬",
+      "word": "熬夜",
+      "pinyin": "áo ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "áo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 110,
+      "lesson": "14",
+      "char": "盏",
+      "word": "一盏灯",
+      "pinyin": "? zhǎn ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zhǎn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 111,
+      "lesson": "14",
+      "char": "豫",
+      "word": "犹豫",
+      "pinyin": "? yù",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yù",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 112,
+      "lesson": "14",
+      "char": "副",
+      "word": "副手",
+      "pinyin": "fù ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "fù",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 113,
+      "lesson": "14",
+      "char": "倚",
+      "word": "倚靠",
+      "pinyin": "yǐ ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yǐ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 114,
+      "lesson": "14",
+      "char": "制",
+      "word": "自制",
+      "pinyin": "? zhì",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zhì",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 115,
+      "lesson": "14",
+      "char": "插",
+      "word": "插图",
+      "pinyin": "chā ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "chā",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 116,
+      "lesson": "14",
+      "char": "聚",
+      "word": "聚精会神",
+      "pinyin": "jù ? ? ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "jù",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 117,
+      "lesson": "14",
+      "char": "愣",
+      "word": "愣",
+      "pinyin": "lèng",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "lèng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 118,
+      "lesson": "14",
+      "char": "漆",
+      "word": "漆黑",
+      "pinyin": "qī hēi",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "qī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 119,
+      "lesson": "14",
+      "char": "堡",
+      "word": "堡垒",
+      "pinyin": "bǎo ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "bǎo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 120,
+      "lesson": "14",
+      "char": "枪",
+      "word": "枪支",
+      "pinyin": "qiāng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "qiāng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 121,
+      "lesson": "14",
+      "char": "编",
+      "word": "编织",
+      "pinyin": "biān ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "biān",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 122,
+      "lesson": "15",
+      "char": "篷",
+      "word": "斗篷",
+      "pinyin": "? péng",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "péng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 123,
+      "lesson": "15",
+      "char": "嫌",
+      "word": "嫌弃",
+      "pinyin": "xián ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "xián",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 124,
+      "lesson": "15",
+      "char": "瓦",
+      "word": "瓦蓝",
+      "pinyin": "wǎ ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "wǎ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 125,
+      "lesson": "15",
+      "char": "柜",
+      "word": "衣柜",
+      "pinyin": "yī guì",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "guì",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 126,
+      "lesson": "15",
+      "char": "嘻",
+      "word": "嘻",
+      "pinyin": "xī",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "xī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 127,
+      "lesson": "15",
+      "char": "嚷",
+      "word": "叫嚷",
+      "pinyin": "? rǎng",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "rǎng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 128,
+      "lesson": "15",
+      "char": "锅",
+      "word": "铁锅",
+      "pinyin": "tiě guō",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "guō",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 129,
+      "lesson": "15",
+      "char": "酱",
+      "word": "酱油",
+      "pinyin": "jiàng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "jiàng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 130,
+      "lesson": "15",
+      "char": "唇",
+      "word": "嘴唇",
+      "pinyin": "? chún",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "chún",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 131,
+      "lesson": "15",
+      "char": "蹦",
+      "word": "蹦跳",
+      "pinyin": "bèng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "bèng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 132,
+      "lesson": "16",
+      "char": "帘",
+      "word": "眼帘",
+      "pinyin": "? lián",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "lián",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 133,
+      "lesson": "16",
+      "char": "裹",
+      "word": "包裹",
+      "pinyin": "? guǒ",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "guǒ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 134,
+      "lesson": "16",
+      "char": "薄",
+      "word": "薄弱",
+      "pinyin": "báo ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "báo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 135,
+      "lesson": "16",
+      "char": "篮",
+      "word": "摇篮",
+      "pinyin": "? lán",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "lán",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 136,
+      "lesson": "16",
+      "char": "渺",
+      "word": "渺小",
+      "pinyin": "miǎo ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "miǎo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 137,
+      "lesson": "16",
+      "char": "资",
+      "word": "资源",
+      "pinyin": "zī ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "zī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 138,
+      "lesson": "16",
+      "char": "滥",
+      "word": "滥用",
+      "pinyin": "làn ?",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "làn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 139,
+      "lesson": "16",
+      "char": "胁",
+      "word": "威胁",
+      "pinyin": "? xié",
+      "origin": "新版教材印刷词语（照片p128–129）",
+      "charPinyin": "xié",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 140,
+      "lesson": "16",
+      "char": "福",
+      "word": "造福",
+      "pinyin": "? fú",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "fú",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 141,
+      "lesson": "19",
+      "char": "涯",
+      "word": "天涯",
+      "pinyin": "? yá",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yá",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 142,
+      "lesson": "19",
+      "char": "牢",
+      "word": "牢",
+      "pinyin": "láo",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "láo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 143,
+      "lesson": "19",
+      "char": "葛",
+      "word": "瓜葛",
+      "pinyin": "? gé",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "gé",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 144,
+      "lesson": "19",
+      "char": "苔",
+      "word": "青苔",
+      "pinyin": "? tái",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "tái",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 145,
+      "lesson": "20",
+      "char": "仓",
+      "word": "仓库",
+      "pinyin": "cāng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "cāng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 146,
+      "lesson": "20",
+      "char": "聪",
+      "word": "聪明",
+      "pinyin": "cōng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "cōng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 147,
+      "lesson": "20",
+      "char": "置",
+      "word": "布置",
+      "pinyin": "? zhì",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zhì",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 148,
+      "lesson": "20",
+      "char": "悦",
+      "word": "喜悦",
+      "pinyin": "? yuè",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yuè",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 149,
+      "lesson": "20",
+      "char": "施",
+      "word": "实施",
+      "pinyin": "? shī",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "shī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 150,
+      "lesson": "21",
+      "char": "谐",
+      "word": "和谐",
+      "pinyin": "? xié",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "xié",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 151,
+      "lesson": "21",
+      "char": "拦",
+      "word": "阻拦",
+      "pinyin": "? lán",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "lán",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 152,
+      "lesson": "21",
+      "char": "添",
+      "word": "增添",
+      "pinyin": "? tiān",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "tiān",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 153,
+      "lesson": "21",
+      "char": "怖",
+      "word": "恐怖",
+      "pinyin": "? bù",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "bù",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 154,
+      "lesson": "21",
+      "char": "愉",
+      "word": "愉快",
+      "pinyin": "yú ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yú",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 155,
+      "lesson": "21",
+      "char": "蟋",
+      "word": "蟋",
+      "pinyin": "xī",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "xī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 156,
+      "lesson": "21",
+      "char": "蟀",
+      "word": "蟋蟀",
+      "pinyin": "xī shuài",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "shuài",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 157,
+      "lesson": "23",
+      "char": "郑",
+      "word": "郑重",
+      "pinyin": "zhèng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zhèng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 158,
+      "lesson": "23",
+      "char": "拜",
+      "word": "拜访",
+      "pinyin": "bài ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "bài",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 159,
+      "lesson": "23",
+      "char": "偷",
+      "word": "偷看",
+      "pinyin": "tōu ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "tōu",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 160,
+      "lesson": "23",
+      "char": "租",
+      "word": "租房",
+      "pinyin": "zū ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zū",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 161,
+      "lesson": "23",
+      "char": "厨",
+      "word": "厨房",
+      "pinyin": "chú ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "chú",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 162,
+      "lesson": "23",
+      "char": "毡",
+      "word": "毡帽",
+      "pinyin": "zhān ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zhān",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 163,
+      "lesson": "23",
+      "char": "羞",
+      "word": "怕羞",
+      "pinyin": "? xiū",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "xiū",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 164,
+      "lesson": "23",
+      "char": "爹",
+      "word": "爹娘",
+      "pinyin": "diē ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "diē",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 165,
+      "lesson": "23",
+      "char": "猬",
+      "word": "刺猬",
+      "pinyin": "? wèi",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "wèi",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 166,
+      "lesson": "23",
+      "char": "伶",
+      "word": "伶仃",
+      "pinyin": "líng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "líng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 167,
+      "lesson": "23",
+      "char": "俐",
+      "word": "伶俐",
+      "pinyin": "líng lì",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "lì",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 168,
+      "lesson": "24",
+      "char": "揭",
+      "word": "揭开",
+      "pinyin": "jiē ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "charPinyin": "jiē",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 169,
+      "lesson": "24",
+      "char": "萍",
+      "word": "浮萍",
+      "pinyin": "? píng",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "píng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 170,
+      "lesson": "24",
+      "char": "藻",
+      "word": "水藻",
+      "pinyin": "? zǎo",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zǎo",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 171,
+      "lesson": "24",
+      "char": "漾",
+      "word": "荡漾",
+      "pinyin": "? yàng",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yàng",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 172,
+      "lesson": "24",
+      "char": "焰",
+      "word": "火焰",
+      "pinyin": "? yàn",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yàn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 173,
+      "lesson": "24",
+      "char": "削",
+      "word": "瘦削",
+      "pinyin": "? xuē",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "xuē",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 174,
+      "lesson": "24",
+      "char": "缕",
+      "word": "一缕",
+      "pinyin": "? lǚ",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "lǚ",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 175,
+      "lesson": "24",
+      "char": "晕",
+      "word": "晕倒",
+      "pinyin": "yūn ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "yūn",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 176,
+      "lesson": "24",
+      "char": "骤",
+      "word": "骤然",
+      "pinyin": "zhòu rán",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zhòu",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 177,
+      "lesson": "24",
+      "char": "撕",
+      "word": "撕开",
+      "pinyin": "sī ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "sī",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 178,
+      "lesson": "24",
+      "char": "坠",
+      "word": "坠落",
+      "pinyin": "zhuì luò",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "zhuì",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 179,
+      "lesson": "24",
+      "char": "剩",
+      "word": "剩余",
+      "pinyin": "shèng ?",
+      "origin": "补充示例词（非本页印刷词语）",
+      "charPinyin": "shèng",
+      "requiresManualReview": false
+    }
+  ],
+  "vocab": [
+    {
+      "idx": 0,
+      "lesson": "1",
+      "word": "柔美",
+      "pinyin": "róu měi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 1,
+      "lesson": "1",
+      "word": "勾勒",
+      "pinyin": "gōu lè",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 2,
+      "lesson": "1",
+      "word": "境界",
+      "pinyin": "jìng jiè",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 3,
+      "lesson": "1",
+      "word": "惊叹",
+      "pinyin": "jīng tàn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 4,
+      "lesson": "1",
+      "word": "低吟",
+      "pinyin": "dī yín",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 5,
+      "lesson": "1",
+      "word": "奇丽",
+      "pinyin": "qí lì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 6,
+      "lesson": "1",
+      "word": "骏马",
+      "pinyin": "jùn mǎ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 7,
+      "lesson": "1",
+      "word": "回味",
+      "pinyin": "huí ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 8,
+      "lesson": "1",
+      "word": "洒脱",
+      "pinyin": "sǎ tuō",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 9,
+      "lesson": "1",
+      "word": "衣裳",
+      "pinyin": "yī shang",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 10,
+      "lesson": "1",
+      "word": "疾驰",
+      "pinyin": "jí ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 11,
+      "lesson": "1",
+      "word": "静寂",
+      "pinyin": "jìng ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 12,
+      "lesson": "1",
+      "word": "礼貌",
+      "pinyin": "lǐ mào",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 13,
+      "lesson": "1",
+      "word": "拘束",
+      "pinyin": "jū shù",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 14,
+      "lesson": "2",
+      "word": "宅院",
+      "pinyin": "zhái yuàn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 15,
+      "lesson": "2",
+      "word": "潇洒",
+      "pinyin": "xiāo sǎ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 16,
+      "lesson": "2",
+      "word": "幽雅",
+      "pinyin": "yōu yǎ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 17,
+      "lesson": "2",
+      "word": "伏案",
+      "pinyin": "fú àn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 18,
+      "lesson": "2",
+      "word": "轻灵",
+      "pinyin": "qīng líng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 19,
+      "lesson": "2",
+      "word": "浑浊",
+      "pinyin": "hún zhuó",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 20,
+      "lesson": "2",
+      "word": "笨拙",
+      "pinyin": "bèn zhuō",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 21,
+      "lesson": "2",
+      "word": "参差",
+      "pinyin": "cēn cī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 22,
+      "lesson": "2",
+      "word": "遮掩",
+      "pinyin": "zhē yǎn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 23,
+      "lesson": "2",
+      "word": "文思",
+      "pinyin": "wén sī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 24,
+      "lesson": "2",
+      "word": "如同",
+      "pinyin": "rú tóng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 25,
+      "lesson": "2",
+      "word": "何以",
+      "pinyin": "hé yǐ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 26,
+      "lesson": "2",
+      "word": "恰如",
+      "pinyin": "qià rú",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 27,
+      "lesson": "2",
+      "word": "恍然",
+      "pinyin": "huǎng rán",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 28,
+      "lesson": "2",
+      "word": "顺心",
+      "pinyin": "shùn ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 29,
+      "lesson": "5",
+      "word": "奋战",
+      "pinyin": "fèn zhàn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 30,
+      "lesson": "5",
+      "word": "险要",
+      "pinyin": "xiǎn yào",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 31,
+      "lesson": "5",
+      "word": "沉着",
+      "pinyin": "chén ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 32,
+      "lesson": "5",
+      "word": "全神贯注",
+      "pinyin": "? ? guàn ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 33,
+      "lesson": "5",
+      "word": "崎岖",
+      "pinyin": "qí qū",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 34,
+      "lesson": "5",
+      "word": "横七竖八",
+      "pinyin": "? qī shù bā",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 35,
+      "lesson": "5",
+      "word": "悬崖",
+      "pinyin": "xuán yá",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 36,
+      "lesson": "5",
+      "word": "斩钉截铁",
+      "pinyin": "zhǎn dīng jié tiě",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 37,
+      "lesson": "5",
+      "word": "热血沸腾",
+      "pinyin": "rè xuè fèi téng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 38,
+      "lesson": "5",
+      "word": "居高临下",
+      "pinyin": "jū ? lín ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 39,
+      "lesson": "5",
+      "word": "粉身碎骨",
+      "pinyin": "fěn shēn ? gǔ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 40,
+      "lesson": "5",
+      "word": "眺望",
+      "pinyin": "tiào wàng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 41,
+      "lesson": "5",
+      "word": "昂首",
+      "pinyin": "áng ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 42,
+      "lesson": "5",
+      "word": "豪迈",
+      "pinyin": "háo mài",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 43,
+      "lesson": "5",
+      "word": "气壮山河",
+      "pinyin": "qì zhuàng ? ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 44,
+      "lesson": "6",
+      "word": "政府",
+      "pinyin": "zhèng fǔ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 45,
+      "lesson": "6",
+      "word": "汇集",
+      "pinyin": "huì jí",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 46,
+      "lesson": "6",
+      "word": "爆发",
+      "pinyin": "bào fā",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 47,
+      "lesson": "6",
+      "word": "排山倒海",
+      "pinyin": "pái ? ? hǎi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 48,
+      "lesson": "6",
+      "word": "庄严",
+      "pinyin": "zhuāng yán",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 49,
+      "lesson": "6",
+      "word": "宣告",
+      "pinyin": "xuān gào",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 50,
+      "lesson": "6",
+      "word": "欢跃",
+      "pinyin": "huān ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 51,
+      "lesson": "6",
+      "word": "雄壮",
+      "pinyin": "? zhuàng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 52,
+      "lesson": "6",
+      "word": "肃立",
+      "pinyin": "? lì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 53,
+      "lesson": "6",
+      "word": "飘拂",
+      "pinyin": "? fú",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 54,
+      "lesson": "6",
+      "word": "完毕",
+      "pinyin": "wán bì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 55,
+      "lesson": "6",
+      "word": "检阅",
+      "pinyin": "? yuè",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 56,
+      "lesson": "6",
+      "word": "率领",
+      "pinyin": "shuài lǐng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 57,
+      "lesson": "7",
+      "word": "隐蔽",
+      "pinyin": "? bì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 58,
+      "lesson": "7",
+      "word": "潜伏",
+      "pinyin": "qián fú",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 59,
+      "lesson": "7",
+      "word": "前沿",
+      "pinyin": "qián yán",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 60,
+      "lesson": "7",
+      "word": "伪装",
+      "pinyin": "wěi zhuāng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 61,
+      "lesson": "7",
+      "word": "枯黄",
+      "pinyin": "kū ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 62,
+      "lesson": "7",
+      "word": "作为",
+      "pinyin": "zuò wèi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 63,
+      "lesson": "7",
+      "word": "摧毁",
+      "pinyin": "cuī ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 64,
+      "lesson": "7",
+      "word": "突击",
+      "pinyin": "tū jī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 65,
+      "lesson": "7",
+      "word": "搜索",
+      "pinyin": "sōu suǒ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 66,
+      "lesson": "7",
+      "word": "蔓延",
+      "pinyin": "màn ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 67,
+      "lesson": "7",
+      "word": "幸而",
+      "pinyin": "xìng ér",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 68,
+      "lesson": "7",
+      "word": "浓重",
+      "pinyin": "nóng ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 69,
+      "lesson": "7",
+      "word": "落空",
+      "pinyin": "luò ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 70,
+      "lesson": "7",
+      "word": "忍耐",
+      "pinyin": "? nài",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 71,
+      "lesson": "7",
+      "word": "熄灭",
+      "pinyin": "xī ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 72,
+      "lesson": "8",
+      "word": "前功尽弃",
+      "pinyin": "qián gōng jǐn ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 73,
+      "lesson": "8",
+      "word": "威风凛凛",
+      "pinyin": "? ? lǐn lǐn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 74,
+      "lesson": "8",
+      "word": "搏斗",
+      "pinyin": "bó ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 75,
+      "lesson": "8",
+      "word": "疲倦",
+      "pinyin": "? juàn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 76,
+      "lesson": "8",
+      "word": "别出心裁",
+      "pinyin": "bié chū xīn cái",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 77,
+      "lesson": "8",
+      "word": "技高一筹",
+      "pinyin": "? ? ? chóu",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 78,
+      "lesson": "8",
+      "word": "得意扬扬",
+      "pinyin": "dé yì yáng yáng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 79,
+      "lesson": "8",
+      "word": "观摩",
+      "pinyin": "? mó",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 80,
+      "lesson": "8",
+      "word": "弄巧成拙",
+      "pinyin": "nòng qiǎo chéng zhuō",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 81,
+      "lesson": "8",
+      "word": "知趣",
+      "pinyin": "? qù",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 82,
+      "lesson": "8",
+      "word": "大步流星",
+      "pinyin": "dà ? ? xīng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 83,
+      "lesson": "8",
+      "word": "不禁",
+      "pinyin": "bù jīn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 84,
+      "lesson": "8",
+      "word": "一无所获",
+      "pinyin": "yī wú suǒ huò",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 85,
+      "lesson": "8",
+      "word": "念念有词",
+      "pinyin": "niàn niàn yǒu cí",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 86,
+      "lesson": "8",
+      "word": "忘乎所以",
+      "pinyin": "wàng hū ? yǐ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 87,
+      "lesson": "8",
+      "word": "心满意足",
+      "pinyin": "xīn mǎn yì zú",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 88,
+      "lesson": "9",
+      "word": "盛会",
+      "pinyin": "shèng ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 89,
+      "lesson": "9",
+      "word": "系统",
+      "pinyin": "xì tǒng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 90,
+      "lesson": "9",
+      "word": "猜测",
+      "pinyin": "cāi ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 91,
+      "lesson": "9",
+      "word": "尚未",
+      "pinyin": "shàng ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 92,
+      "lesson": "9",
+      "word": "分析",
+      "pinyin": "fēn xī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 93,
+      "lesson": "9",
+      "word": "效应",
+      "pinyin": "xiào ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 94,
+      "lesson": "9",
+      "word": "轨道",
+      "pinyin": "guǐ ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 95,
+      "lesson": "9",
+      "word": "表明",
+      "pinyin": "? ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 96,
+      "lesson": "9",
+      "word": "所谓",
+      "pinyin": "suǒ wèi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 97,
+      "lesson": "9",
+      "word": "斑点",
+      "pinyin": "bān ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 98,
+      "lesson": "9",
+      "word": "枯萎",
+      "pinyin": "kū wěi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 99,
+      "lesson": "9",
+      "word": "干燥",
+      "pinyin": "gān zào",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 100,
+      "lesson": "9",
+      "word": "沙漠",
+      "pinyin": "shā mò",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 101,
+      "lesson": "9",
+      "word": "进一步",
+      "pinyin": "jìn ? ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 102,
+      "lesson": "9",
+      "word": "一系列",
+      "pinyin": "yī xì liè",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 103,
+      "lesson": "9",
+      "word": "探索",
+      "pinyin": "? suǒ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 104,
+      "lesson": "11",
+      "word": "黎明",
+      "pinyin": "lí ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 105,
+      "lesson": "11",
+      "word": "狂奔",
+      "pinyin": "? bēn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 106,
+      "lesson": "11",
+      "word": "惊慌",
+      "pinyin": "jīng huāng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 107,
+      "lesson": "11",
+      "word": "跌跌撞撞",
+      "pinyin": "diē diē zhuàng zhuàng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 108,
+      "lesson": "11",
+      "word": "拥戴",
+      "pinyin": "? dài",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 109,
+      "lesson": "11",
+      "word": "清瘦",
+      "pinyin": "qīng ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 110,
+      "lesson": "11",
+      "word": "乱哄哄",
+      "pinyin": "luàn hōng hōng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 111,
+      "lesson": "11",
+      "word": "沙哑",
+      "pinyin": "shā yǎ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 112,
+      "lesson": "11",
+      "word": "依次",
+      "pinyin": "yī cì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 113,
+      "lesson": "11",
+      "word": "放肆",
+      "pinyin": "? sì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 114,
+      "lesson": "11",
+      "word": "队伍",
+      "pinyin": "duì wǔ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 115,
+      "lesson": "11",
+      "word": "呻吟",
+      "pinyin": "shēn yín",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 116,
+      "lesson": "11",
+      "word": "胸膛",
+      "pinyin": "xiōng táng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 117,
+      "lesson": "11",
+      "word": "吞没",
+      "pinyin": "tūn méi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 118,
+      "lesson": "11",
+      "word": "猛然",
+      "pinyin": "? rán",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 119,
+      "lesson": "12",
+      "word": "风暴",
+      "pinyin": "? bào",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 120,
+      "lesson": "12",
+      "word": "心惊肉跳",
+      "pinyin": "? jīng ròu ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 121,
+      "lesson": "12",
+      "word": "勉强",
+      "pinyin": "miǎn qiǎng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 122,
+      "lesson": "12",
+      "word": "抱怨",
+      "pinyin": "bào yuàn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 123,
+      "lesson": "12",
+      "word": "倾听",
+      "pinyin": "? tīng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 124,
+      "lesson": "12",
+      "word": "探望",
+      "pinyin": "? wàng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 125,
+      "lesson": "12",
+      "word": "照顾",
+      "pinyin": "zhào gù",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 126,
+      "lesson": "12",
+      "word": "张罗",
+      "pinyin": "? ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 127,
+      "lesson": "12",
+      "word": "仍旧",
+      "pinyin": "réng jiù",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 128,
+      "lesson": "12",
+      "word": "僵硬",
+      "pinyin": "jiāng ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 129,
+      "lesson": "12",
+      "word": "自作自受",
+      "pinyin": "? zuò ? shòu",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 130,
+      "lesson": "12",
+      "word": "湿淋淋",
+      "pinyin": "shī lín lín",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 131,
+      "lesson": "12",
+      "word": "糟糕",
+      "pinyin": "zāo ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 132,
+      "lesson": "12",
+      "word": "倒霉",
+      "pinyin": "? méi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 133,
+      "lesson": "12",
+      "word": "忧虑",
+      "pinyin": "yōu lǜ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 134,
+      "lesson": "14",
+      "word": "宏伟",
+      "pinyin": "? wěi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 135,
+      "lesson": "14",
+      "word": "赞叹",
+      "pinyin": "zàn tàn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 136,
+      "lesson": "14",
+      "word": "自制",
+      "pinyin": "? zhì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 137,
+      "lesson": "14",
+      "word": "微弱",
+      "pinyin": "wēi ruò",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 138,
+      "lesson": "14",
+      "word": "聚精会神",
+      "pinyin": "jù ? ? ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 139,
+      "lesson": "14",
+      "word": "不由得",
+      "pinyin": "bù yóu de",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 140,
+      "lesson": "14",
+      "word": "点燃",
+      "pinyin": "? ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 141,
+      "lesson": "14",
+      "word": "漆黑",
+      "pinyin": "qī hēi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 142,
+      "lesson": "14",
+      "word": "后续",
+      "pinyin": "? xù",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 143,
+      "lesson": "14",
+      "word": "阻击",
+      "pinyin": "? jī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 144,
+      "lesson": "14",
+      "word": "突破",
+      "pinyin": "tū pò",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 145,
+      "lesson": "14",
+      "word": "暴露",
+      "pinyin": "bào ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 146,
+      "lesson": "14",
+      "word": "不惜",
+      "pinyin": "bù xī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 147,
+      "lesson": "15",
+      "word": "斗篷",
+      "pinyin": "? péng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 148,
+      "lesson": "15",
+      "word": "瓦蓝",
+      "pinyin": "wǎ ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 149,
+      "lesson": "15",
+      "word": "衣柜",
+      "pinyin": "yī guì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 150,
+      "lesson": "15",
+      "word": "遮盖",
+      "pinyin": "zhē gài",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 151,
+      "lesson": "15",
+      "word": "闷雷",
+      "pinyin": "mèn léi",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 152,
+      "lesson": "15",
+      "word": "央求",
+      "pinyin": "yāng qiú",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 153,
+      "lesson": "15",
+      "word": "心思",
+      "pinyin": "? sī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 154,
+      "lesson": "15",
+      "word": "不声不响",
+      "pinyin": "bù shēng bù xiǎng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 155,
+      "lesson": "15",
+      "word": "逗引",
+      "pinyin": "? yǐn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 156,
+      "lesson": "15",
+      "word": "张望",
+      "pinyin": "? wàng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 157,
+      "lesson": "15",
+      "word": "果真",
+      "pinyin": "guǒ zhēn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 158,
+      "lesson": "15",
+      "word": "甜丝丝",
+      "pinyin": "tián sī sī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 159,
+      "lesson": "15",
+      "word": "理直气壮",
+      "pinyin": "lǐ zhí qì zhuàng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 160,
+      "lesson": "15",
+      "word": "起劲",
+      "pinyin": "? jìn",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 161,
+      "lesson": "16",
+      "word": "眼帘",
+      "pinyin": "? lián",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 162,
+      "lesson": "16",
+      "word": "摇篮",
+      "pinyin": "? lán",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 163,
+      "lesson": "16",
+      "word": "渺小",
+      "pinyin": "miǎo ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 164,
+      "lesson": "16",
+      "word": "资源",
+      "pinyin": "zī ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 165,
+      "lesson": "16",
+      "word": "无私",
+      "pinyin": "wú sī",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 166,
+      "lesson": "16",
+      "word": "节制",
+      "pinyin": "jié zhì",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 167,
+      "lesson": "16",
+      "word": "枯竭",
+      "pinyin": "kū ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 168,
+      "lesson": "16",
+      "word": "毁坏",
+      "pinyin": "? huài",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 169,
+      "lesson": "16",
+      "word": "滥用",
+      "pinyin": "làn ?",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 170,
+      "lesson": "16",
+      "word": "威胁",
+      "pinyin": "? xié",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 171,
+      "lesson": "16",
+      "word": "移居",
+      "pinyin": "yí jū",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 172,
+      "lesson": "16",
+      "word": "指望",
+      "pinyin": "zhǐ wàng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 173,
+      "lesson": "16",
+      "word": "设想",
+      "pinyin": "shè xiǎng",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 174,
+      "lesson": "16",
+      "word": "目睹",
+      "pinyin": "mù dǔ",
+      "origin": "新版教材印刷词语（照片p128–129）"
+    },
+    {
+      "idx": 175,
+      "lesson": "1",
+      "word": "回敬",
+      "pinyin": "huí ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 176,
+      "lesson": "1",
+      "word": "陈列",
+      "pinyin": "chén liè",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 177,
+      "lesson": "1",
+      "word": "玻璃",
+      "pinyin": "? ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 178,
+      "lesson": "1",
+      "word": "彩虹",
+      "pinyin": "cǎi hóng",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 179,
+      "lesson": "1",
+      "word": "鞭子",
+      "pinyin": "biān ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 180,
+      "lesson": "1",
+      "word": "马蹄",
+      "pinyin": "mǎ tí",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 181,
+      "lesson": "1",
+      "word": "奶豆腐",
+      "pinyin": "nǎi dòu fu",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 182,
+      "lesson": "1",
+      "word": "稍微",
+      "pinyin": "shāo wēi",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 183,
+      "lesson": "2",
+      "word": "花蕾",
+      "pinyin": "? ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 184,
+      "lesson": "2",
+      "word": "孟浩然",
+      "pinyin": "mèng ? rán",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 185,
+      "lesson": "2",
+      "word": "紫色",
+      "pinyin": "zǐ ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 186,
+      "lesson": "2",
+      "word": "寂寞",
+      "pinyin": "? mò",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 187,
+      "lesson": "5",
+      "word": "坚强不屈",
+      "pinyin": "? qiǎng bù ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 188,
+      "lesson": "5",
+      "word": "横贯",
+      "pinyin": "? guàn",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 189,
+      "lesson": "6",
+      "word": "石栏",
+      "pinyin": "? lán",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 190,
+      "lesson": "6",
+      "word": "坦克",
+      "pinyin": "tǎn ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 191,
+      "lesson": "6",
+      "word": "外宾",
+      "pinyin": "? bīn",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 192,
+      "lesson": "7",
+      "word": "趴下",
+      "pinyin": "pā ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 193,
+      "lesson": "7",
+      "word": "液体",
+      "pinyin": "yè tǐ",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 194,
+      "lesson": "7",
+      "word": "烟幕",
+      "pinyin": "yān mù",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 195,
+      "lesson": "8",
+      "word": "祈祷",
+      "pinyin": "qí dǎo",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 196,
+      "lesson": "8",
+      "word": "卡住",
+      "pinyin": "qiǎ zhù",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 197,
+      "lesson": "8",
+      "word": "棍棒",
+      "pinyin": "gùn ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 198,
+      "lesson": "8",
+      "word": "沮丧",
+      "pinyin": "jǔ sàng",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 199,
+      "lesson": "9",
+      "word": "恒星",
+      "pinyin": "héng xīng",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 200,
+      "lesson": "9",
+      "word": "氧气",
+      "pinyin": "? qì",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 201,
+      "lesson": "9",
+      "word": "自转轴",
+      "pinyin": "zì zhuàn zhóu",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 202,
+      "lesson": "9",
+      "word": "揭开",
+      "pinyin": "jiē ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 203,
+      "lesson": "9",
+      "word": "谜语",
+      "pinyin": "mí ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 204,
+      "lesson": "10",
+      "word": "宗教",
+      "pinyin": "zōng jiào",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 205,
+      "lesson": "10",
+      "word": "宫廷",
+      "pinyin": "gōng tíng",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 206,
+      "lesson": "10",
+      "word": "牡丹",
+      "pinyin": "? ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 207,
+      "lesson": "11",
+      "word": "瞪眼",
+      "pinyin": "dèng ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 208,
+      "lesson": "11",
+      "word": "发疯",
+      "pinyin": "fā fēng",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 209,
+      "lesson": "11",
+      "word": "流淌",
+      "pinyin": "? tǎng",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 210,
+      "lesson": "11",
+      "word": "揪住",
+      "pinyin": "jiū zhù",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 211,
+      "lesson": "11",
+      "word": "废话",
+      "pinyin": "fèi ?",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 212,
+      "lesson": "11",
+      "word": "倒塌",
+      "pinyin": "? tā",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 213,
+      "lesson": "12",
+      "word": "汹涌澎湃",
+      "pinyin": "xiōng yǒng péng pài",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 214,
+      "lesson": "12",
+      "word": "忐忑不安",
+      "pinyin": "tǎn tè bù ān",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 215,
+      "lesson": "12",
+      "word": "妻子桑娜",
+      "pinyin": "qī zi sāng nà",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    },
+    {
+      "idx": 216,
+      "lesson": "12",
+      "word": "唉声叹气",
+      "pinyin": "āi shēng tàn qì",
+      "origin": "新版教材手写补充（照片p128–129）",
+      "requiresManualReview": false
+    }
+  ],
+  "printedCount": 175,
+  "handwrittenCount": 42,
+  "notes": [
+    {
+      "page": 126,
+      "kind": "写字表",
+      "note": "第6课“榴”后一个字初读为「栩」，需要复核照片字形",
+      "status": "待核"
+    },
+    {
+      "page": 128,
+      "kind": "手写",
+      "note": "第5、6、7课右侧多处手写重叠，未能可靠辨清的字词未冒充已确认收录",
+      "status": "待核"
+    },
+    {
+      "page": 129,
+      "kind": "手写",
+      "note": "第8—12课部分交叉覆盖笔迹需进一步核对；清楚的手写词已入库",
+      "status": "待核"
+    }
+  ],
+  "metadata": {
+    "noReadingTable": true,
+    "writingBookCount": 180,
+    "handwrittenIncluded": true,
+    "sourcePhotos": [
+      "IMG_5900.jpg",
+      "IMG_5901.jpg",
+      "IMG_5902.jpg",
+      "IMG_5903.jpg"
+    ],
+    "completeness": "印刷180字已逐行计数；若干笔迹重叠的手写补充待复核",
+    "oldVersionUntouched": true
+  }
+}
