@@ -607,13 +607,27 @@ async function restore(){
       const modeKey=Object.keys(LABEL).find(k=>LABEL[k]===parts[1]);const groupNum=Number(parts[2].replace(/[^0-9]/g,""));
       if(!modeKey||!groupNum)continue;
       const entries=(rows.data||[]).filter(x=>x.attempt_id===a.id);
-      attempts.push({id:a.id,quiz_id:QUIZ_ID,child_name:"高语桐",semester:a.semester,base_phase:parts[0],mode:modeKey,group:groupNum-1,round_no:a.round_no,study_mode:parts[3]==="纸笔"?"paper":"typing",
+      const study=parts[3]==="纸笔"?"paper":parts[3]==="网页核对"?"typed-review":"typing";
+      attempts.push({id:a.id,quiz_id:QUIZ_ID,child_name:"高语桐",semester:a.semester,base_phase:parts[0],mode:modeKey,group:groupNum-1,round_no:a.round_no,study_mode:study,
        total_questions:a.total_questions,correct_questions:a.correct_questions,score:a.score,completed_at:a.completed_at,
-       items:entries.map(x=>({id:x.question_type.split("|")[1],type:x.question_type.split("|")[0].replace(/^paper-/,""),focus:x.correct_char,word:x.expected_word,
+       items:entries.map(x=>({id:x.question_type.split("|")[1],type:x.question_type.split("|")[0].replace(/^(paper-|review-)/,""),focus:x.correct_char,word:x.expected_word,
          expected:x.expected_word,answer:x.given_answer,correct:x.is_correct}))});
       synced.add(a.id);count++;
    }
-   put(K+"-attempts",attempts);savedSynced();board();showPaper();
+   // For manual web checkmarks keep the newest saved pass, without altering automatic grading results.
+   const ordered=attempts.filter(x=>x.study_mode==="typed-review").sort((a,b)=>b.completed_at.localeCompare(a.completed_at));
+   const seen=new Set();
+   for(const a of ordered){
+     const k=[a.semester,a.base_phase,a.mode,a.group,a.round_no].join("|")+"|typed-review";
+     if(seen.has(k)){a.replaced=true;continue;}
+     seen.add(k);a.replaced=false;
+     const state=paperSessions[k]||(paperSessions[k]={marks:{},saved:false});
+     if(!state.savedAt||state.savedAt<=a.completed_at){
+       state.marks=Object.fromEntries((a.items||[]).map(x=>[x.id,!!x.correct]));
+       state.saved=true;state.savedAt=a.completed_at;
+     }
+   }
+   savePaper();put(K+"-attempts",attempts);savedSynced();board();showPaper();
    cloudMessage("✓ 从云端补回"+count+"轮记录，已保留本机原有内容。");
  }catch(e){cloudMessage("恢复失败："+(e.message||e));}
  finally{$("restoreBtn").disabled=false;}
