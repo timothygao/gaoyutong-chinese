@@ -309,7 +309,7 @@ function saveTypedReviewMarks(){
  if(previous)previous.replaced=true;
  attempts.push(a);
  if(!store(ATTEMPT_KEY,attempts)){attempts.pop();if(previous)delete previous.replaced;alert("保存失败。");return;}
- record.saved=true;savePaper();memoryStatus();dashboard();renderTypedReview();
+ record.saved=true;record.lastSavedAt=a.completed_at;savePaper();memoryStatus();dashboard();renderTypedReview();
  alertMessage("第"+pass+"次逐题核对已保存（写对"+good+"/"+items.length+"题）。"+(unlocked?"正在同步云端。":"解锁家庭档案后可同步云端。"),"ok");
  if(unlocked)uploadAttempt(a);
 }
@@ -540,6 +540,7 @@ function hydrateAnswers(answerMap){
 function showResults(attempt,shouldScroll){
  if((attempt.study_mode||"typing")==="paper"){
   lockedAttempt=attempt;
+  answersVisible=true;
   const p=paperSession();p.revealed=true;
   (attempt.items||[]).forEach((x,i)=>{if(questions[i])p.marks[questions[i].id]=!!x.is_correct;});
   savePaper();renderPaperReview();
@@ -892,11 +893,30 @@ async function restoreCloud(){
   if(b.error)throw b.error;
   missing.forEach(a=>{
    const items=(b.data||[]).filter(x=>x.attempt_id===a.id).sort((x,y)=>Number((x.question_type||"").split("|").pop())-Number((y.question_type||"").split("|").pop())).map((x,i)=>({item_no:i,correct_char:x.correct_char,expected_word:x.expected_word,question_type:(x.question_type||"").split("|")[0],given_answer:x.given_answer,is_correct:x.is_correct,answered_at:x.answered_at}));
-   attempts.push({...a,mode:"normal",study_mode:a.phase.includes("·纸笔自核")?"paper":"typing",
-  base_phase:a.phase.replace(/·纸笔自核(?:·第[123]次)?$/,"").replace(/·成组辨析v1$/,""),paper_pass:Number((a.phase.match(/·纸笔自核·第([123])次$/)||[])[1]||1),items});
+   const manual=(a.phase.match(/·网页逐题核对·第([123])次$/)||[])[1];
+   const isPaper=a.phase.includes("·纸笔自核");
+   const basePhase=a.phase.replace(/·网页逐题核对·第[123]次$/,"").replace(/·纸笔自核(?:·第[123]次)?$/,"").replace(/·成组辨析v1$/,"");
+   attempts.push({...a,mode:"normal",study_mode:manual?"typed-review":isPaper?"paper":"typing",
+    base_phase:basePhase,review_pass:manual?Number(manual):null,
+    paper_pass:Number((a.phase.match(/·纸笔自核·第([123])次$/)||[])[1]||1),items});
    markSynced(a.id);
   });
-  store(ATTEMPT_KEY,attempts);memoryStatus();dashboard();
+  // Restore manual review check marks independently from automatically graded answers.
+  const ordered=attempts.filter(a=>a.study_mode==="typed-review").sort((x,y)=>y.completed_at.localeCompare(x.completed_at));
+  const newest=new Set();
+  for(const a of ordered){
+   const key=[a.semester,a.base_phase,a.mode,a.round_no].join("|")+"|typed-review|pass"+a.review_pass;
+   if(newest.has(key)){a.replaced=true;continue;}
+   newest.add(key);a.replaced=false;
+   const record=paperSessions[key]||(paperSessions[key]={marks:{},saved:false});
+   if(!record.lastSavedAt||record.lastSavedAt<=a.completed_at){
+    record.marks={};
+    for(const item of a.items)if(item.given_answer)record.marks[item.given_answer]=!!item.is_correct;
+    record.saved=true;record.lastSavedAt=a.completed_at;
+   }
+  }
+  savePaper();store(ATTEMPT_KEY,attempts);memoryStatus();dashboard();
+  if(studyMode==="typing"&&!$("quizArea").classList.contains("hidden"))renderTypedReview();
   alertMessage("已从云端恢复"+missing.length+"轮历史成绩；答题明细也已合并到本机。","ok");
  }catch(e){alertMessage("恢复失败："+(e.message||String(e)),"err")}
 }
